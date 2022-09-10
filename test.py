@@ -1,16 +1,14 @@
+import requests
+import re
+import os
+from utils import download_html,download_picture,load_url
 
-
-# import requests,re
-# url = "https://zkaoy.com/5418.html"
-# resp = requests.get(url)
-
-# pat = r"<title>(.*?)</title>"
-# # ex = re.compile(pat, re.M|re.S) 
-
- 
-# tag_obj = re.search(pat, resp.text)
-# con = tag_obj.group(1)
- 
-# print (con)
-import os 
-print(os.path.join(os.path.join(os.getcwd(),"12"),'adss'))
+url  = 'https://qq.yh31.com/zjbq/'
+data={
+    'kw':123,
+}
+url = '1.html'
+# resp = load_url(url)
+# print(resp.status_code)
+soup = load_url(url)
+print(soup.find_all('a'))
