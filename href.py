@@ -1,17 +1,13 @@
-import requests
-from bs4 import BeautifulSoup
-import os,re
-from  utils import download_html
+# import requests
+# from bs4 import BeautifulSoup
+# import os,re
+from  utils import download_html, load_url
 # pip install bs4 lxml
 
 
 def parse(html_filepath):
-    with open(html_filepath, "r", encoding='utf-8') as f:
-        html_content = f.read()
-        soup = BeautifulSoup(html_content,features="lxml")
-    
+    soup = load_url(html_filepath)
     post_list = soup.find_all("div", class_="item-body flex xx flex1 jsb")
-    # print(post_list)
     for post in post_list:
         link = post.find_all("h2")[0].find_all("a")[0]
         print(link.text.strip())

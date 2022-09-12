@@ -1,4 +1,5 @@
 import requests
+from requests.exceptions import RequestException
 from bs4 import BeautifulSoup
 import os
 import re
@@ -38,7 +39,14 @@ def download_html(url:str,dirname='download',filename=''):
       filename : use title of the html (in title widget) as title.html
     """
     resp = requests.get(url,headers=headers)
+    try:
+        resp = requests.get(url)
+        if resp.status_code != 200:
+            return "None"
+    except RequestException as e:
+        return e
     resp.encoding = 'utf-8'
+    
     pat = r"<title>(.*?)</title>"
     if  filename == '':
         filename = re.search(pat, resp.text).group(1)
