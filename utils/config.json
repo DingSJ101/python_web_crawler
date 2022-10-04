@@ -1,0 +1,7 @@
+{
+    "mysql":{
+        "account":"remote",
+        "host":"175.24.167.6",
+        "passwd":"qwe123"
+    }
+}

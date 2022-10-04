@@ -1,0 +1,581 @@
+{
+    "success": true,
+    "data": {
+        "cards": [
+            {
+                "component": "textImgListVerticalNormal",
+                "content": [
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "《人生大事》是由韩延监制，刘江江执导，朱一龙领衔主演，杨恩又、王戈、刘陆、罗京民主演的电影，该片于2022年上映。该片讲述刑满释放的殡葬师三哥在一次出殡中遇见了孤儿武小文，意外地改变了三哥对职业和生活态度的故事。",
+                        "hotChange": "up",
+                        "hotScore": "235602",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/3cffe6cd36c752fc9603418268f431cd",
+                        "index": 0,
+                        "query": "人生大事 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：全部",
+                            "演员：朱一龙、杨恩又"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "人生大事"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E7%8B%AC%E8%A1%8C%E6%9C%88%E7%90%83+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "2033年,为了抵御小行星的撞击,拯救地球,人类在月球部署了月盾计划。陨石提前来袭,全员紧急撤离时,维修工独孤月(沈腾 饰)因为意外,错过了领队马蓝星(马丽 饰)的撤离通知,一个人落在了月球。不料月盾计划失败,独孤月成为了“宇宙最后的人类”,开始了他在月球上破罐子破摔的生活...",
+                        "hotChange": "same",
+                        "hotScore": "228757",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/698f1e94c34c97275792e2e264e56c57",
+                        "index": 1,
+                        "query": "独行月球 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E7%8B%AC%E8%A1%8C%E6%9C%88%E7%90%83+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：搞笑、科幻",
+                            "演员：沈腾、马丽"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E7%8B%AC%E8%A1%8C%E6%9C%88%E7%90%83+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "独行月球"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E9%82%AA%E4%B8%8D%E5%8E%8B%E6%AD%A3+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "北洋年间，北京以北。习武少年李天然目睹师兄朱潜龙勾结日本特务根本一郎，杀害师父全家。李天然侥幸从枪下逃脱，被美国医生亨德勒救下。李天然伤愈后，赴美学医多年，并同时接受特工训练。1937年初，李天然突然受命回国。“七七事变”前夜，北平，这座国际间谍之城，华洋混杂，山头林立。每时每刻充满诱惑与杀机。一心复仇的李天然，并不知道自己被卷入了一场阴谋，亦搅乱了一盘棋局。彼时彼刻，如同李小龙闯进了谍都卡萨布兰",
+                        "hotChange": "same",
+                        "hotScore": "210508",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/71f5730e2019a7cc58bfb613d5d92e19",
+                        "index": 2,
+                        "query": "邪不压正 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E9%82%AA%E4%B8%8D%E5%8E%8B%E6%AD%A3+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：搞笑、爱情",
+                            "演员：姜文、彭于晏"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E9%82%AA%E4%B8%8D%E5%8E%8B%E6%AD%A3+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "邪不压正"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E5%93%A5%E6%96%AF%E6%8B%89+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "新版《哥斯拉》由2010年《怪兽禁区》（Monsters）的导演加雷斯·爱德华兹（Gareth Edwards）执导，和1998年索尼的那部完全无关，将更忠于日本原作，让哥斯拉和其他怪兽（不止一个）对打。在今年圣迭戈Comic-Con动漫展上，华纳公司曾曝光了一小段新《哥斯拉》的片花，反响非常强烈。改编自1954年日本电影《哥斯拉》，围绕一位人类大兵的生活展开。讲述了沉睡的古代巨型怪兽被人们意外唤",
+                        "hotChange": "down",
+                        "hotScore": "201098",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/bc77117cdbb09d731cd7dc384869cc86",
+                        "index": 3,
+                        "query": "哥斯拉 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E5%93%A5%E6%96%AF%E6%8B%89+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：冒险、科幻",
+                            "演员：亚伦·泰勒-约翰逊、卡梅隆·CJ·亚当斯"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E5%93%A5%E6%96%AF%E6%8B%89+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "哥斯拉"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E9%AD%94%E5%A5%B32+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "《魔女2》是朴勋政执导和编剧的科幻动作电影，由申诗雅、金多美、赵敏秀、李钟硕和晋久等主演，预计于2021年在韩国正式上映。",
+                        "hotChange": "same",
+                        "hotScore": "180431",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/32252ecc15981695b4a13c4cf12a0a84",
+                        "index": 4,
+                        "query": "魔女2 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E9%AD%94%E5%A5%B32+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：动作、科幻",
+                            "演员：申诗雅、李钟硕"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E9%AD%94%E5%A5%B32+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "魔女2"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E7%A5%9E%E6%8E%A2%E5%A4%A7%E6%88%98+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "《神探大战》是由韦家辉执导，刘青云、蔡卓妍、林峯、李若彤、谭凯、陈家乐、汤怡、何珮瑜等主演的犯罪动作悬疑电影。该片讲述了自封“神探”的凶手与真正的“神探”鬼才之间展开的斗智斗勇的港式七宗罪故事。该片原定于2022年4月2日在中国大陆上映，后延期上映，新档期择日公布。",
+                        "hotChange": "same",
+                        "hotScore": "165057",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/047b61a7b9fb712ce4651fc879f47f4c",
+                        "index": 5,
+                        "query": "神探大战 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E7%A5%9E%E6%8E%A2%E5%A4%A7%E6%88%98+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：动作、悬疑",
+                            "演员：刘青云、蔡卓妍"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E7%A5%9E%E6%8E%A2%E5%A4%A7%E6%88%98+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "神探大战"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E6%98%8E%E6%97%A5%E6%88%98%E8%AE%B0+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "《明日战记》的故事设定在2055年，那时候的地球深受污染和全球变暖问题的困扰，一颗陨石击中地球，带来一种快速生长的触须类外星生物，它在净化地球的同时，也在杀死一切生命。拯救地球的任务落在了一支精英部队身上。在与外星生物作战的同时，他们也发现了一个惊天阴谋……",
+                        "hotChange": "same",
+                        "hotScore": "164336",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/60bc5cbe062d60c587f8fb6dfa61ae03",
+                        "index": 6,
+                        "query": "明日战记 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E6%98%8E%E6%97%A5%E6%88%98%E8%AE%B0+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：科幻、动作",
+                            "演员：古天乐、刘青云"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E6%98%8E%E6%97%A5%E6%88%98%E8%AE%B0+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "明日战记"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E4%BE%8F%E7%BD%97%E7%BA%AA%E4%B8%96%E7%95%8C3+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "《侏罗纪世界3：统治》由环球影业出品的科幻惊悚电影，科林·特雷沃罗执导，克里斯·帕拉特、布莱丝·达拉斯·霍华德领衔主演，杰克·约翰逊、杰夫·高布伦等主演。该片于2022年6月10日在美国与中国内地上映。《侏罗纪世界3》讲述了自从恐龙进入了人类世界，侏罗纪公园已经不复存在的故事。",
+                        "hotChange": "same",
+                        "hotScore": "162497",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/abcccc66f4f14227d1413fe8515ef342",
+                        "index": 7,
+                        "query": "侏罗纪世界3 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E4%BE%8F%E7%BD%97%E7%BA%AA%E4%B8%96%E7%95%8C3+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：动作、科幻",
+                            "演员：克里斯·帕拉特、布莱丝·达拉斯·霍华德"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E4%BE%8F%E7%BD%97%E7%BA%AA%E4%B8%96%E7%95%8C3+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "侏罗纪世界3"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E6%96%AF%E8%AF%BA%E7%99%BB+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "这部斯诺登题材的电影主要基于两本书，一本是英国《卫报》（Guardian）记者卢克·哈丁今年初刚刚出版的的《斯诺登档案：世界头号通缉犯的内幕故事》，该书全面记录了爱德华·斯诺登是如何因为其自由主义价值观与美国政府的监听计划发生冲突，而从一名忠诚的共和党人成为美国政府口中的“叛国者”的。",
+                        "hotChange": "up",
+                        "hotScore": "154416",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/db653a1f0cb4a2bb6ce3a12aca8eac11",
+                        "index": 8,
+                        "query": "斯诺登 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E6%96%AF%E8%AF%BA%E7%99%BB+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：恐怖、传记",
+                            "演员：约瑟夫·高登莱维特、谢琳·伍德蕾"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E6%96%AF%E8%AF%BA%E7%99%BB+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "斯诺登"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E9%A1%BD%E7%9F%B3%E4%B9%8B%E6%8B%B3+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "《顽石之拳》是由五家独立电影联合投资拍摄，乔纳森·加库波维兹执导的传记片，埃德加·拉米雷兹,罗伯特·德尼罗出演，该片于2016年8月26日在美国上映。该片讲述了拳击手罗伯特·杜兰的职业生涯。",
+                        "hotChange": "up",
+                        "hotScore": "124966",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/9ca15e3aba7b30bb38563b0965f979bc",
+                        "index": 9,
+                        "query": "顽石之拳 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E9%A1%BD%E7%9F%B3%E4%B9%8B%E6%8B%B3+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：剧情、传记",
+                            "演员：埃德加·拉米雷兹、罗伯特·德尼罗"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E9%A1%BD%E7%9F%B3%E4%B9%8B%E6%8B%B3+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "顽石之拳"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E9%95%BF%E7%A9%BA%E4%B9%8B%E7%8E%8B+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "以中国王牌飞行员雷宇为首的特别行动小组临危受命,去完成一项艰巨的国家任务,他们以超群的飞行技巧和向死而生的勇气不断挑战天空和自我的极限,前赴后继不畏死亡,创造奇迹。各种意想不到的危机接踵而来",
+                        "hotChange": "up",
+                        "hotScore": "118166",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/2cd3b1ab3b52d0cde8f4d0c5b85f14be",
+                        "index": 10,
+                        "query": "长空之王 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E9%95%BF%E7%A9%BA%E4%B9%8B%E7%8E%8B+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：剧情",
+                            "演员：王一博、胡军"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E9%95%BF%E7%A9%BA%E4%B9%8B%E7%8E%8B+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "长空之王"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E6%97%A0%E4%BA%BA%E5%8C%BA+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "小有名气但利欲熏心的律师潘肖（徐峥饰），凭借扎实的法律知识和巧舌如簧的庭辩技巧，成功帮盗捕国家珍禽阿拉泰隼并残忍杀害一名警察的西北盗猎团伙老大（多布杰 饰）洗脱罪名。老大承诺十天后付清余款，潘肖则要求对方用一辆红色轿车抵押。在此之后，他驾驶着新车踏上从西北荒漠返回大都会的路程。谁知路上险情不断，先是和一对开卡车拉茅草的哥俩（王双宝 \u0026 巴多 饰）发生摩擦，导致人伤车损，接着又不慎撞飞一个似乎拦车求",
+                        "hotChange": "down",
+                        "hotScore": "114526",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/eac1ef6f818d1cad5048fbc13e19d995",
+                        "index": 11,
+                        "query": "无人区 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E6%97%A0%E4%BA%BA%E5%8C%BA+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：剧情、犯罪",
+                            "演员：徐峥、黄渤"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E6%97%A0%E4%BA%BA%E5%8C%BA+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "无人区"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%A6%E5%AF%B9%E5%86%B3+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "该片根据史蒂芬·莱瑟1992年出版的小说《中国佬》（The Chinaman）改编。讲述了身经百战的越战退伍老兵（成龙 饰）退役之后在伦敦唐人街开了家餐馆。当小女儿被爱尔兰恐怖团伙残害，正义得不到伸张的情况下，悲愤之中他再度举枪为女复仇。",
+                        "hotChange": "up",
+                        "hotScore": "87488",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/a1c9d9e6a3596e31f9b894e9e6f85394",
+                        "index": 12,
+                        "query": "英伦对决 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%A6%E5%AF%B9%E5%86%B3+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：动作、惊悚",
+                            "演员：成龙、皮尔斯·布鲁斯南"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%A6%E5%AF%B9%E5%86%B3+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "英伦对决"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E5%80%A9%E5%A5%B3%E5%B9%BD%E9%AD%82+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "很多年以前，他矢志要成为一个优秀的猎妖师，他选择了黑山做他修行和圆梦之旅的起点。那时，燕赤霞很年轻，黑山已经是一座很老的大山，那里有更老的精灵妖怪，它们过着原始的生活，粗糙简单却充满杀戮气息。他在黑山经历一场又一场的凶险恶斗，村民们都害怕进入黑山和这间寺院被称为“兰若寺。他的剑变得更可怕，他的力量也更强大，他自信可以战胜一切，直到那一天，他遇上了她和他们的悲痛故事由此开始。很多年以后，黑山山下的所",
+                        "hotChange": "same",
+                        "hotScore": "82024",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/37c561a8c21cee77d8f67b333b9895c6",
+                        "index": 13,
+                        "query": "倩女幽魂 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E5%80%A9%E5%A5%B3%E5%B9%BD%E9%AD%82+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：剧情、爱情",
+                            "演员：刘亦菲、古天乐"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E5%80%A9%E5%A5%B3%E5%B9%BD%E9%AD%82+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "倩女幽魂"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E5%B0%8F%E6%97%B6%E4%BB%A3+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "这是一个梦想闪耀的时代，这也是一个理想冷却的时代；这是最坏的时代，这也是最好的时代，这是我们的小时代。 这是当下时代一群时尚年轻人的青春故事，也是属于他们生活的真实写照，更是我们这个时代的一个缩影。故事发生在经济飞速发展时期的上海，主人公林萧（杨幂 饰）、顾里（郭采洁 饰）、南湘（郭碧婷 饰）、唐宛如（谢依霖 饰）四个女生在这座风光而时尚的城市里生活与学习、工作与成长，四个女生从小感情深厚，却各自",
+                        "hotChange": "up",
+                        "hotScore": "74185",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/663c0604b9c924aeb374928d2c5e702b",
+                        "index": 14,
+                        "query": "小时代 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E5%B0%8F%E6%97%B6%E4%BB%A3+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：剧情、搞笑",
+                            "演员：杨幂、柯震东"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E6%97%B6%E4%BB%A3+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "小时代"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E7%BF%BB%E8%AF%91%E5%AE%98+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "《翻译官》是由秦海燕编剧的剧情电影。该片讲述了老金带领小文等翻译学院的毕业生到非洲某地实习，返程时却在机场遭到绑匪绑架。老金和小文与绑匪斗智斗勇，让绑匪从暴力不沟通，转变为谈判沟通，凭借翻译的职业优势带领大家打通了回家之路。",
+                        "hotChange": "up",
+                        "hotScore": "58926",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/bc4103f3a4429b01087fa2321780f454",
+                        "index": 15,
+                        "query": "翻译官 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E7%BF%BB%E8%AF%91%E5%AE%98+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：剧情",
+                            "演员：张译、王俊凯"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E7%BF%BB%E8%AF%91%E5%AE%98+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "翻译官"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "新中国成立70周年献礼片《我和我的祖国》将于10月1日正式上映。该片由陈凯歌担任总导演，黄建新担任总制片人，张一白担任总策划，陈凯歌、张一白、管虎、薛晓路、徐峥、宁浩、文牧野七位导演拍摄独立成章的七部短片，以“历史瞬间，全民记忆，迎头相撞”串联在一起。",
+                        "hotChange": "same",
+                        "hotScore": "53281",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/511473c3c270ead9c06814f4fadc9398",
+                        "index": 16,
+                        "query": "我和我的祖国 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：剧情",
+                            "演员：黄渤、张译"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "我和我的祖国"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E8%AE%A9%E5%AD%90%E5%BC%B9%E9%A3%9E+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "民国年间，花钱捐得县长的马邦德（葛优 饰）携妻（刘嘉玲 饰）及随从走马上任。途经南国某地，遭劫匪张麻子（姜文 饰）一伙伏击，随从尽死，只夫妻二人侥幸活命。马为保命，谎称自己是县长的汤师爷。为汤师爷许下的财富所动，张麻子摇身一变化身县长，带着手下赶赴鹅城上任。有道是天高皇帝远，鹅城地处偏僻，一方霸主黄四郎（周润发 饰）只手遮天，全然不将这个新来的县长放在眼里。张麻子痛打了黄的武教头（姜武 饰），黄则",
+                        "hotChange": "up",
+                        "hotScore": "51812",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/848b399c100c435a67675db459ebee28",
+                        "index": 17,
+                        "query": "让子弹飞 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E8%AE%A9%E5%AD%90%E5%BC%B9%E9%A3%9E+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：喜剧、动作",
+                            "演员：姜文、葛优"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E8%AE%A9%E5%AD%90%E5%BC%B9%E9%A3%9E+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "让子弹飞"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E7%89%87%E5%9C%BA%E6%9D%80%E6%9C%BA+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "《停拍》是2011年上映的日本伊朗电影，由阿米尔·纳得瑞执导，西岛秀俊，常盘贵子等主演。影片讲述了热爱电影的电影导演秀二，为了替哥哥还债，不得不沦落成为一名黑帮打手的故事。",
+                        "hotChange": "same",
+                        "hotScore": "49884",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/23d5002c6f94d898c050089a19b94118",
+                        "index": 18,
+                        "query": "片场杀机 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E7%89%87%E5%9C%BA%E6%9D%80%E6%9C%BA+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：剧情、动作剧情片",
+                            "演员：西岛秀俊、常盘贵子"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E7%89%87%E5%9C%BA%E6%9D%80%E6%9C%BA+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "片场杀机"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E5%86%B3%E6%88%98%E8%A6%81%E5%A1%9E+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "苏德战争爆发，靠近波兰边境的白俄罗斯小城布列斯特要塞最先遭受德军炮火突袭，但守卫部队于弹丸之地牵制了数十倍于自己的德军兵力。战争进行到第30天，最初打响战斗的布列斯特守备部队仍在坚守，并一直向后方总部发出“这里是要塞，正在战斗”的讯息。在已经失守的布列斯特要塞的地道里坚持战斗一年多的最后一名苏军战士，被德国人发现时，他被德国人从地穴中押出来刺眼的阳光让他几乎失明",
+                        "hotChange": "down",
+                        "hotScore": "41617",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/a1f9f1d6bf887b03b9c39a898b1014b0",
+                        "index": 19,
+                        "query": "决战要塞 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E5%86%B3%E6%88%98%E8%A6%81%E5%A1%9E+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：动作、剧情",
+                            "演员：安德烈·马斯连基、叶甫盖尼·塞格诺夫"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E5%86%B3%E6%88%98%E8%A6%81%E5%A1%9E+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "决战要塞"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E5%86%8D%E7%94%9F%E5%8F%B7+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "汤有亮一家游玩途中遭遇严重车祸，汤当场身亡，妻子程希文和一双儿女侥幸逃生，只是女儿汤乐儿双眼从此失明。转眼十年过去，时间并未治愈汤氏一家心中的创伤，他们久久沉浸在失去丈夫和父亲的悲痛之中。乐儿不愿母亲继续折磨自己，她尝试着将一家人的经历写成小说，而书中的情节和现实截然相反。在小说里，乐儿和母亲、弟弟死于车祸，父亲则活了下来，成为一个由菲佣照顾起居的盲人。父亲相信鬼魂的存在，时刻期盼与妻儿重逢。",
+                        "hotChange": "up",
+                        "hotScore": "40993",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/0d89d4ae21e546b783cbdb0be7da4baa",
+                        "index": 20,
+                        "query": "再生号 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E5%86%8D%E7%94%9F%E5%8F%B7+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：悬疑、惊悚",
+                            "演员：刘青云、林熙蕾"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E5%86%8D%E7%94%9F%E5%8F%B7+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "再生号"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E5%AF%84%E7%94%9F%E8%99%AB+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "基宇出生在一个贫穷的家庭之中，和妹妹基婷以及父母在狭窄的地下室里过着相依为命的日子。一天，基宇的同学上门拜访，他告诉基宇，自己在一个有钱人家里给他们的女儿做家教，太太是一个头脑简单出手又阔绰的女人，因为自己要出国留学，所以将家教的职位暂时转交给基宇。就这样，基宇来到了朴社长家中，并且见到了他的太太，没过多久，基宇的妹妹和父母也如同寄生虫一般的进入了朴社长家里工作。然而，他们的野心并没有止步于此，基",
+                        "hotChange": "down",
+                        "hotScore": "39184",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/52aa42100775197904433ef8b6a505f6",
+                        "index": 21,
+                        "query": "寄生虫 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E5%AF%84%E7%94%9F%E8%99%AB+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：搞笑、剧情",
+                            "演员：宋康昊、李善均"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E5%AF%84%E7%94%9F%E8%99%AB+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "寄生虫"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "1912年4月10日,号称 “世界工业史上的奇迹”的豪华客轮泰坦尼克号开始了自己的处女航,从英国的南安普顿出发驶往美国纽约。富家少女罗丝(凯特温丝莱特)与母亲及未婚夫卡尔坐上了头等舱;另一边,放荡不羁的少年画家杰克(莱昂纳多迪卡普里奥)也在码头的一场赌博中赢得了下等舱的船票。 罗丝厌倦了上流社会虚伪的生活,不愿嫁给卡尔,打算投海自尽,被杰克救起。很快,美丽活泼的罗丝与英俊开朗的杰克相爱,杰克带罗丝",
+                        "hotChange": "same",
+                        "hotScore": "37080",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/ba5321990b08185d1f2d4436073fc6c8",
+                        "index": 22,
+                        "query": "泰坦尼克号 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：灾难、剧情",
+                            "演员：莱昂纳多·迪卡普里奥、凯特·温丝莱特"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "泰坦尼克号"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E5%AE%AB%E9%94%81%E6%B2%89%E9%A6%99+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "满清康熙鼎盛之际,自十三岁入宫当宫女的兆佳沉香(周冬雨 饰)与同在乾西四所当差的好朋友琉璃(赵丽颖 饰)度过七年春秋.深宫内院,挡不住少女春心萌动.单纯无知的沉香偷偷恋上十三阿哥胤祥(陈晓 饰),情缘前定,两个身分有着巨大差异的青年男女互生好感.另一方面,琉璃偶然得到九阿哥胤禟(朱梓骁 饰)临幸,后被抛弃,一心攀援富贵的她被嫉妒与虚荣所充满,遂假托沉香之名得以许配十三阿哥.沉香深藏心中委屈,以贴身",
+                        "hotChange": "up",
+                        "hotScore": "36149",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/64f6b8da1303539c797389aaf0d06f62",
+                        "index": 23,
+                        "query": "宫锁沉香 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E5%AE%AB%E9%94%81%E6%B2%89%E9%A6%99+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：爱情、剧情",
+                            "演员：周冬雨、陈晓"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E5%AE%AB%E9%94%81%E6%B2%89%E9%A6%99+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "宫锁沉香"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E7%99%BD%E9%B9%BF%E5%8E%9F+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "电影《白鹿原》改编自陈忠实同名小说，由王全安执导，集结了张丰毅，张雨绮，段奕宏，吴刚，刘威，郭涛等众多影星。影片以陕西关中平原上素有“仁义村”之称的白鹿村为主要背景，细腻地反映了出白姓和鹿姓两大家族祖孙三代人的恩怨纷争。此外著名编剧芦苇，美术设计师霍廷霄，配乐赵季平，德国摄影师卢茨·赖特迈尔等重量级幕后主创的加盟，一流的班底全力打造，影片品质令人期待。",
+                        "hotChange": "same",
+                        "hotScore": "33247",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/fe367fb2d1ee66d568274ecad4b7718d",
+                        "index": 24,
+                        "query": "白鹿原 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E7%99%BD%E9%B9%BF%E5%8E%9F+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：剧情、年代",
+                            "演员：张丰毅、张雨绮"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E7%99%BD%E9%B9%BF%E5%8E%9F+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "白鹿原"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E4%BA%A4%E5%8F%89%E7%82%B9+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "一对夫妻在摩洛哥度假(亚力山大饰演妻子,格里奥饰演丈夫),而妻子密谋借助情人之手谋害丈夫,故事围绕此展开。当她的情人和丈夫在一个偏僻的沙漠公路上遇到了车祸时,整个计划被打乱了。他们从沙漠十字路口的连环撞车现场逃离,与一群车祸中的幸存者遭遇,包括一名被通缉的走私犯,一名便衣警察,一名绑匪,一个婴儿和一名不知情的澳大利亚人。他们踏上欺 骗和反欺骗的旅程,在丹吉尔的露天市场故事情节达到了高潮。",
+                        "hotChange": "down",
+                        "hotScore": "30857",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/ddb6e9644ab3e081eeba15787f5c923e",
+                        "index": 25,
+                        "query": "交叉点 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E4%BA%A4%E5%8F%89%E7%82%B9+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：爱情、惊悚",
+                            "演员：杰米·亚历山大、查理·比尤利"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E4%BA%A4%E5%8F%89%E7%82%B9+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "交叉点"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E7%8B%82%E6%9A%B4%E9%87%8E%E4%BA%BA+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "特效化妆师马丁因为殴打事件被迫寻求催眠治疗控制脾气。因为母亲神秘离世，马丁返回老家，而那里不久后就发生了怪物杀人类事件。当地警长确信马丁与此事件脱不了干系，马丁自己也意识到，这些都与他的恶梦有关。",
+                        "hotChange": "up",
+                        "hotScore": "30478",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/95946ace45a92525210991b1af9ca1cc",
+                        "index": 26,
+                        "query": "狂暴野人 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E7%8B%82%E6%9A%B4%E9%87%8E%E4%BA%BA+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：科幻、喜剧",
+                            "演员：Jeff Ryan"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E7%8B%82%E6%9A%B4%E9%87%8E%E4%BA%BA+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "狂暴野人"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E7%96%AF%E7%8B%8272%E5%B0%8F%E6%97%B6+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "7月23日，都市爱情黑色喜剧电影《夜夜夜》在北京举办“疯狂初夜”首次媒体见面会，由此这部剧情紧张、充满黑色喜剧气氛的电影揭开了神秘面纱。《夜夜夜》由李继贤执导，李青阳编剧，闫妮、冯馨瑶、耿乐、邵兵、李菁等主演。",
+                        "hotChange": "down",
+                        "hotScore": "27814",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/fef466a6b6201fa5e5f1e9bd2619947b",
+                        "index": 27,
+                        "query": "疯狂72小时 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E7%96%AF%E7%8B%8272%E5%B0%8F%E6%97%B6+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：喜剧、搞笑",
+                            "演员：闫妮、耿乐"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E7%96%AF%E7%8B%8272%E5%B0%8F%E6%97%B6+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "疯狂72小时"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E7%A5%9E%E5%A2%93+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "一道雷火划破浩渺的宇宙苍穹，击向连绵的冰雪峰峦。率领神魔众生征战天道的上古战神辰南，历经万载沉睡后从雪山之巅的墓群中苏醒，无意间误入楚国地界，最终为探寻身世之谜，为解封自身神力，最终踏上了拯救天下苍生的道路。",
+                        "hotChange": "up",
+                        "hotScore": "26815",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/55359954d35cfac5238d6dc85a793cc3",
+                        "index": 28,
+                        "query": "神墓 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E7%A5%9E%E5%A2%93+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：爱情",
+                            "演员：李明轩、张荻"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E7%A5%9E%E5%A2%93+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "神墓"
+                    },
+                    {
+                        "appUrl": "https://www.baidu.com/s?wd=%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%85+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "desc": "《边缘行者》是由爱奇艺影业出品，黄明升执导，任贤齐、任达华、方中信、谭耀文、吴卓羲领衔主演的动作犯罪悬疑电影。该片讲述了从香港回归前夕特殊时代背景切入，通过卧底警察调查黑帮贩毒，揭露惊天政治阴谋的故事。该片于2022年4月15日中国上映。",
+                        "hotChange": "down",
+                        "hotScore": "26623",
+                        "img": "https://fyb-1.cdn.bcebos.com/fyb-1/20220928/a842824080528cfc24dc8fd8e07ec71f",
+                        "index": 29,
+                        "query": "边缘行者 电影",
+                        "rawUrl": "https://www.baidu.com/s?wd=%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%85+%E7%94%B5%E5%BD%B1",
+                        "show": [
+                            "类型：动作、悬疑",
+                            "演员：任贤齐、任达华"
+                        ],
+                        "url": "https://www.baidu.com/s?wd=%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%85+%E7%94%B5%E5%BD%B1\u0026sa=fyb_movie_all_all\u0026rsv_dl=fyb_movie_all_all",
+                        "word": "边缘行者"
+                    }
+                ],
+                "more": 0,
+                "moreAppUrl": "https://top.baidu.com/board?tab=movie\u0026sa=fyb_movie",
+                "moreUrl": "https://top.baidu.com/board?tab=movie\u0026sa=fyb_movie",
+                "text": "电影榜",
+                "topContent": null,
+                "typeName": "movie",
+                "updateTime": "1664380224"
+            }
+        ],
+        "curBoardName": "电影榜",
+        "logid": "3347786365",
+        "platform": "pc",
+        "tabBoard": [
+            {
+                "index": 0,
+                "text": "首页",
+                "typeName": "homepage"
+            },
+            {
+                "index": 1,
+                "text": "热搜榜",
+                "typeName": "realtime"
+            },
+            {
+                "index": 2,
+                "text": "小说榜",
+                "typeName": "novel"
+            },
+            {
+                "index": 3,
+                "text": "电影榜",
+                "typeName": "movie"
+            },
+            {
+                "index": 4,
+                "text": "电视剧榜",
+                "typeName": "teleplay"
+            },
+            {
+                "index": 5,
+                "text": "汽车榜",
+                "typeName": "car"
+            },
+            {
+                "index": 6,
+                "text": "游戏榜",
+                "typeName": "game"
+            }
+        ],
+        "tag": [
+            {
+                "typeName": "category",
+                "text": "类型",
+                "content": [
+                    "全部类型",
+                    "爱情",
+                    "喜剧",
+                    "动作",
+                    "剧情",
+                    "科幻",
+                    "恐怖",
+                    "动画",
+                    "惊悚",
+                    "犯罪"
+                ],
+                "curIndex": 0
+            },
+            {
+                "typeName": "country",
+                "text": "地区",
+                "content": [
+                    "全部地区",
+                    "中国大陆",
+                    "中国香港",
+                    "中国台湾",
+                    "欧美",
+                    "日本",
+                    "韩国"
+                ],
+                "curIndex": 0
+            }
+        ],
+        "userInfo": {
+            "isLogin": 1,
+            "displayName": "136******01",
+            "portrait": "https://himg.bdimg.com/sys/portrait/item/public.1.7909b2a6.lO1MGi9NsVGJ42kBjH7L2Q.jpg"
+        }
+    },
+    "error": {
+        "code": 0,
+        "message": "api response ok"
+    }
+}

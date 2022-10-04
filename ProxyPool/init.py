@@ -2,36 +2,12 @@ from email import header
 from operator import truediv
 import time
 from unittest import TestProgram
-from fake_useragent import UserAgent
 import requests
 from bs4 import BeautifulSoup
 from lxml import etree
 import re
+from utils.utils import get_page,request_header
 
-def request_header():
-    headers = {
-        # 'User-Agent': UserAgent().random #常见浏览器的请求头伪装（如：火狐,谷歌）
-        'User-Agent': UserAgent().Chrome #谷歌浏览器
-    }
-    return headers
-
-def get_page(url, options={}):
-    """
-    抓取代理
-    :param url:
-    :param options:
-    :return:
-    """
-    headers = dict(request_header(), **options)
-    # print('正在抓取', url)
-    try:
-        response = requests.get(url, headers=headers)
-        print('抓取成功', url, response.status_code)
-        if response.status_code == 200:
-            return response.text
-    except ConnectionError:
-        print('抓取失败', url)
-        return None
 
 def test_proxy(proxy,url = "http://httpbin.org/ip"):
     # url = 'http://api.myip.la/'

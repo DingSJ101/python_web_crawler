@@ -1,7 +1,9 @@
 # selfdefined directory
 download/
 thirdpart/
-
+tmp/
+pic/
+utils/setting.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
