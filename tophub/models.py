@@ -36,3 +36,4 @@ class TopList(Base):
     rawurl = Column(String(255))
     show = Column(String(255))
     word = Column(String(255))
+

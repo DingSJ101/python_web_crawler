@@ -1,4 +1,3 @@
-from tkinter.ttk import Separator
 from fake_useragent import UserAgent
 import requests
 from requests.exceptions import RequestException
@@ -275,20 +274,27 @@ class MysqlUtil:
 from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
-
+from sqlalchemy_utils import database_exists, create_database
 Base = declarative_base()
 metadata = Base.metadata
 class mysqlengine:
-    def __init__(self):
+    def __init__(self,Base):
+        """
+        Base 为项目中models.py中各模型类的父类
+        """
         # 使用pymysql驱动连接到mysql
+        if not database_exists(MYSQL_DB_URL):
+            # print('database doesnt exist ')
+            create_database(MYSQL_DB_URL)
         # self.engine = create_engine(MYSQL_DB_URL,echo=True)
         self.engine = create_engine(MYSQL_DB_URL)
-        self.create_database()
-    
+        self.Base = Base
+        
     def create_database(self):
-        Base.metadata.create_all(self.engine)
+        print('create all tables')
+        self.Base.metadata.create_all(self.engine)
     def drop_database(self):
-        Base.metadata.drop_all(self.engine)
+        self.Base.metadata.drop_all(self.engine)
     def init_session(self):
         Session = sessionmaker(bind=self.engine)
         return Session()

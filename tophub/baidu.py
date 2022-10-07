@@ -6,9 +6,12 @@ sys.path.append(os.path.realpath('.'))
 # sys.path.append('.')
 from utils.utils import load_url,download_html,make_soup,decode_url,download_picture,load_json
 from utils.utils import MysqlUtil,mysqlengine
-from models import HotList
+from models import HotList,Base
 from datetime import datetime
-session = mysqlengine().init_session()
+engine = mysqlengine(Base)
+engine.create_database()
+session = engine.init_session()
+
 """
 方法一 : https://www.baidu.com页面在浏览器上和下载后读取的文件div的属性内容不一致,硬解html
 方法二 : 
@@ -77,7 +80,7 @@ def fun3():
     data = load_json(url)['data']
     cards = data['cards']
     tag = data['tag']
-    db = MysqlUtil("crawl")
+    # db = MysqlUtil("crawl")
 
     for card in cards:
         component, content, more, moreAppUrl, moreUrl, text, topContent, typeName, updateTime = card.values()
@@ -194,14 +197,13 @@ if __name__ == '__main__':
     # res=  mysql.get_fetchall(sql)
     # print(res)
     ## 
-    cnt = 400
+    cnt = 4000
     while(cnt):
         print(datetime.now(),cnt)
         fun3()
         time = random.randint(30,60)
         sleep(time)
         cnt=cnt-1
-        sleep(3)
     
     
     
