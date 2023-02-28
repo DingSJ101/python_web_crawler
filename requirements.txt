@@ -6,3 +6,4 @@ pyquery==1.4.3
 requests==2.28.1
 selenium==4.5.0
 SQLAlchemy==1.4.41
+bar_chart_race==0.1.0
